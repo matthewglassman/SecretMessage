@@ -3,3 +3,6 @@ let secretMessage = ['Learning', 'is', 'not', 'about', 'what', 'you', 'get', 'ea
 console.log(secretMessage.length);
 secretMessage.pop();
 console.log(secretMessage.length);
+
+secretMessage.push('to', 'Program');
+console.log(secretMessage);
