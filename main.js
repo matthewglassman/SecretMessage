@@ -12,3 +12,6 @@ console.log(secretMessage);
 
 secretMessage.shift();
 console.log(secretMessage);
+
+secretMessage.unshift('Programming');
+console.log(secretMessage);
