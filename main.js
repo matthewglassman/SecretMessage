@@ -9,3 +9,6 @@ secretMessage.push('to', 'Program');
 
 secretMessage[7]='right';
 console.log(secretMessage);
+
+secretMessage.shift();
+console.log(secretMessage);
